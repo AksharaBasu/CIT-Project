@@ -1,6 +1,6 @@
 public class ElseIfLader {
     public static void main(String[] args) {
-        int marks = 75;
+        int marks = 25;
         if(marks>=90)
             System.out.println("Grade A");
         else if(marks>=75)
